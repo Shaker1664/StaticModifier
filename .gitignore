@@ -1,0 +1,62 @@
+# Visual Studio / JetBrains Rider / VS Code
+.vs/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.csproj.user
+*.config
+*.bak
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+*.nuget.cache
+*.dll
+*.exe
+*.pdb
+*.dll.config
+
+# MSTest Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+*.dotnet-*
+*.userprefs
+
+# Build and package logs
+*.log
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.ReSharper*/
+
+# Visual Studio Code
+.vscode/
+.project
+*.launch.json
+*.vsconfig
+
+# Test files
+test/**/*.xml
