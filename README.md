@@ -23,6 +23,6 @@ public class MyClass
 }
 ```
 ## Additional Resources
-For more information and detailed examples on using the static modifier in .NET 6.0, refer to the following Medium post:
+For more information and detailed examples on using the static modifier in .NET 6.0, refer to the following Medium post: https://medium.com/@shakeribnakamal/what-is-static-in-oop-fc3cc524d567
 
 Feel free to check out the Medium post for a comprehensive guide and further insights into the static modifier.
